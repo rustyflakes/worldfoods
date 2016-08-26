@@ -1396,7 +1396,7 @@
 	}
 
 	body {
-		background: #0EE27B;
+		background: #fff;
 	}
 
 		body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2641,7 +2641,7 @@
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
+			background-color: #fff;
 			color: #c7ebe8;
 		}
 
@@ -2650,7 +2650,7 @@
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				color: #5B4F3A;
 			}
 
 			.wrapper.style1 hr {
@@ -2674,7 +2674,8 @@
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c7ebe8;
+				color: #c3cf21;
+;
 			}
 
 			.wrapper.style1 label {
